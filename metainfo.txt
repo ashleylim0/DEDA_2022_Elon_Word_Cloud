@@ -1,0 +1,20 @@
+Name of Quantlet: 'DEDA_2022_Elon_Word_Cloud'
+
+Published in: 'DEDA class 2022'
+
+Description: 'Creation of a Word Cloud based on Elon Musk tweets from 2010 to 2021'
+Submitted:  '09 Dec 2022'
+
+Keywords: 
+- 'Word Cloud'
+- 'Elon Musk'
+- 'Twitter'
+
+Output:  
+- 'DEDA 2022 Elon Musk Word Cloud.png'
+
+Author: 
+- 'Ashley Lim' 
+- 'Paul Jeswin Leo Edwin'
+- 'Ying Jie Yeoh' 
+- 'Alexandre Gomes Leitao'
